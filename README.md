@@ -1,6 +1,6 @@
 Tenzies game - Be the first player to get all ten of your dice to show the same number.
 
-- React.js
+- React
 
 ![tenzies0](https://user-images.githubusercontent.com/125043957/227574898-0f2a0486-e98d-4c17-8c06-250806182557.png)
 
